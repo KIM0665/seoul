@@ -21,3 +21,5 @@ spring.mail.password= 앱비밀번호 작성
 
 
 [시연영상](https://www.youtube.com/watch?v=Q8kcxoCDCYc)
+
+[포트폴라오](https://www.notion.so/077a3dc1db704fd69bd36d1f3bb79a22)
