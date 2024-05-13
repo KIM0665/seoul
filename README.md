@@ -18,3 +18,6 @@ spring.mail.password= 앱비밀번호 작성
 저의 역할은 조장으로서
 
 마이페이지, 회원가입/로그인, 시큐리티,데이터베이스 설계 및 연관관계 설정, 폴더구조 설계, 팀원 서포트 담당했습니다.
+
+
+[시연영상](https://www.youtube.com/watch?v=Q8kcxoCDCYc)
